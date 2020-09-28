@@ -28,7 +28,7 @@ SECRET_KEY = '92ila@0c-q+&#z)+3t0e+mrppj!f!_=mi2y!=1n_p9#4(1r2=x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['serene-ocean-71713.herokuapp.com/', 'carzoneapp.co', 'www.carzoneapp.co']]
+ALLOWED_HOSTS = ['serene-ocean-71713.herokuapp.com', 'carzoneapp.co', 'www.carzoneapp.co']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
