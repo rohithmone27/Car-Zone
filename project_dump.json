@@ -148,3 +148,25 @@
         "condition": "Used",
         "price": 25000,
         "description": 
+        "car_photo": "photos/2020/09/23/1902932503.jpg",
+        "car_photo_1": "photos/2020/09/23/1902932514.jpg",
+        "car_photo_2": "photos/2020/09/23/1902932528.jpg",
+        "car_photo_3": "photos/2020/09/23/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,ParkAssist,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 15000,
+        "doors": "6",
+        "passengers": 8,
+        "vin_no": "WP0AB2E81EKTY",
+        "milage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2020-09-23T19:14:34Z"
+    }
+}
+]
